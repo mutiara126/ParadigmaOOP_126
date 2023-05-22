@@ -14,6 +14,7 @@ class orang {
         cout << "orang dihapus\n" << endl;
     }
 
+
 };
 
 
